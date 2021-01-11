@@ -1,0 +1,112 @@
+html {
+  background-color: lightgrey;
+}
+header {
+  font-family: "Goldman", cursive;
+  font-size: 5vw;
+  color: black;
+  background-color: lightslategrey;
+  text-align: center;
+  padding-bottom: 1vw;
+}
+main {
+  font-family: "Goldman", cursive;
+  color: black;
+  background-color: lightgrey;
+  text-align: left;
+  margin-left: 15vw;
+}
+footer {
+  font-family: "Goldman", cursive;
+  color: black;
+  background-color: lightslategray;
+  text-align: center;
+}
+form {
+  text-align: left;
+  margin-left: 5vw;
+  margin-right: auto;
+}
+.form {
+  text-align: left;
+  margin-left: 5vw;
+  margin-right: auto;
+}
+.formHeader {
+  text-align: left;
+  margin-left: 5vw;
+  margin-right: auto;
+}
+
+ul {
+  text-align: left;
+  margin-left: 5vw;
+  list-style-position: inside;
+}
+ol {
+  text-align: left;
+  margin-left: 5vw;
+  list-style-position: inside;
+}
+.listheader {
+  text-align: left;
+  margin-left: 4vw;
+}
+.nestedList {
+  margin-left: 0%;
+}
+p {
+  margin-left: 5vw;
+  margin-right: 30vw;
+}
+
+table {
+  margin-left: 7.5vw;
+}
+.navBar {
+  border-color: black;
+  border-width: 1px;
+  font-size: 1.6vw;
+  background-color: lightgray;
+  padding: 1vw;
+  margin: 1vw;
+  border-radius: 0.75vw;
+}
+.emblem {
+  border-radius: 50%;
+  width: 50px;
+  margin: 1vw;
+}
+
+.banner {
+  height: 10vw;
+  width: 100vw;
+}
+
+/**
+.container {
+  font-size: 2vw;
+  width: 100%;
+  background: lightgray;
+  display: grid;
+
+  grid-template-columns: 5vw 10vw 10vw;
+  grid-template-rows: 10vw 4vw;
+}
+
+.d1 {
+  background: lightskyblue;
+}
+.d2 {
+  background: lightsalmon;
+}
+.d3 {
+  background: paleturquoise;
+}
+.d4 {
+  background: lightcoral;
+}
+.d5 {
+  background: palegreen;
+  grid-area: 1/1/4/2;
+}

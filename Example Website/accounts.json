@@ -1,0 +1,31 @@
+{
+    "accounts" : [
+        {
+        "ID": 123,
+        "password": "password",
+        "invested": 10.00
+        },
+        {
+        "ID": 456,
+        "password": "password",
+        "invested": 10.00
+        },
+        {
+        "ID": 789,
+        "password": "password",
+        "invested": 10.00
+        }
+    ],
+
+    "positions" :
+    {
+        "RealEstate" :
+        {"total" : 0.00},
+        "Crypto" :
+        {"total" : 0.00},
+        "Loans" :
+        {"total" : 0.00},
+        "Liquid" :
+        {"total" : 30.00}
+    }
+}
